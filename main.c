@@ -1,4 +1,6 @@
 /* A1208 configuration program */
+/* Initial software structure by Radosław "strim" Kujawa(https://github.com/rkujawa)
+/* modded/adapted by Rafał. G. Chyła vel Sanjyuubi */
 
 #include <stdio.h>
 #include <stdlib.h>
